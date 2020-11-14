@@ -1,0 +1,741 @@
+{
+    "阿鬼": {
+        "links": {
+            "weibo": "https://weibo.com/u/1879140367",
+            "pixiv": null,
+            "twitter": null,
+            "other": "https://fearm.lofter.com/"
+        },
+        "charIDs": [
+            "char_118_yuki",
+            "char_277_sqrrel",
+            "char_284_spot",
+            "char_355_ethan",
+            "char_272_strong"
+        ]
+    },
+    "RAN": {
+        "links": {
+            "weibo": "https://weibo.com/u/2235541213",
+            "pixiv": "https://www.pixiv.net/users/2957827",
+            "twitter": null,
+            "other": null
+        },
+        "charIDs": [
+            "char_241_panda"
+        ]
+    },
+    "Lanzi": {
+        "links": {
+            "weibo": "https://weibo.com/danlanlanzi",
+            "pixiv": "https://www.pixiv.net/users/16233751",
+            "twitter": null,
+            "other": null
+        },
+        "charIDs": [
+            "char_181_flower",
+            "char_366_acdrop"
+        ]
+    },
+    "釜飯轟々丸": {
+        "links": {
+            "weibo": null,
+            "pixiv": "https://www.pixiv.net/users/16130433",
+            "twitter": "https://twitter.com/kamamesigogo123",
+            "other": "https://kamameshigogomaru.tumblr.com/"
+        },
+        "charIDs": [
+            "char_337_utage"
+        ]
+    },
+    "海猫络合物": {
+        "links": {
+            "weibo": "https://weibo.com/lowlight",
+            "pixiv": "https://www.pixiv.net/users/904187",
+            "twitter": null,
+            "other": null
+        },
+        "charIDs": [
+            "char_009_12fce"
+        ]
+    },
+    "虎三": {
+        "links": {
+            "weibo": "https://weibo.com/onemystery",
+            "pixiv": "https://www.pixiv.net/users/1217087",
+            "twitter": "https://twitter.com/biuuu07",
+            "other": "http://nossss.lofter.com/"
+        },
+        "charIDs": [
+            "char_131_flameb"
+        ]
+    },
+    "幻象黑兔": {
+        "links": {
+            "weibo": "https://weibo.com/u/3188613133",
+            "pixiv": "https://www.pixiv.net/users/4462245",
+            "twitter": "https://twitter.com/coneyrivard",
+            "other": null
+        },
+        "charIDs": [
+            "char_242_otter",
+            "char_101_sora",
+            "char_102_texas",
+            "char_103_angel",
+            "char_201_moeshd",
+            "char_140_whitew",
+            "char_213_mostma",
+            "char_2014_nian",
+            "char_293_thorns"
+        ]
+    },
+    "将": {
+        "links": {
+            "weibo": "https://weibo.com/sholwlwlw",
+            "pixiv": "https://www.pixiv.net/users/30551748",
+            "twitter": "https://twitter.com/Sho_lwlw",
+            "other": "https://zezeyooo.tumblr.com/"
+        },
+        "charIDs": [
+            "char_298_susuro",
+            "char_333_sidero",
+            "char_358_lisa"
+        ]
+    },
+    "竜崎いち": {
+        "links": {
+            "weibo": "https://weibo.com/ryuzakiichi",
+            "pixiv": "https://www.pixiv.net/users/563034",
+            "twitter": "https://twitter.com/ryuzakiichi",
+            "other": "https://ryuzakiichi.lofter.com/"
+        },
+        "charIDs": [
+            "char_500_noirc",
+            "char_503_rang",
+            "char_128_plosis",
+            "char_215_mantic",
+            "char_172_svrash",
+            "char_173_slchan",
+            "char_174_slbell",
+            "char_198_blackd",
+            "char_199_yak",
+            "char_147_shining",
+            "char_148_nearl",
+            "char_237_gravel",
+            "char_289_gyuki",
+            "char_283_midn",
+            "char_325_bison",
+            "char_306_leizi",
+            "char_379_sesa",
+            "char_265_sophia",
+            "char_423_blemsh"
+        ]
+    },
+    "谜肘": {
+        "links": {
+            "weibo": "https://weibo.com/kieta7777",
+            "pixiv": "https://www.pixiv.net/users/217707",
+            "twitter": "https://twitter.com/kieta_c7",
+            "other": null
+        },
+        "charIDs": [
+            "char_109_fmout"
+        ]
+    },
+    "咩煲": {
+        "links": {
+            "weibo": "https://weibo.com/u/1596435602",
+            "pixiv": "https://www.pixiv.net/users/1475165",
+            "twitter": "https://twitter.com/Superanxii",
+            "other": null
+        },
+        "charIDs": [
+            "char_151_myrtle"
+        ]
+    },
+    "时辰": {
+        "links": {
+            "weibo": "https://weibo.com/u/3042386674",
+            "pixiv": "https://www.pixiv.net/users/7514361",
+            "twitter": "https://twitter.com/shichen00",
+            "other": "http://shi-chen.lofter.com/"
+        },
+        "charIDs": [
+            "char_171_bldsk"
+        ]
+    },
+    "上埜": {
+        "links": {
+            "weibo": "https://www.weibo.com/u/7146844303",
+            "pixiv": "https://www.pixiv.net/users/23301601",
+            "twitter": "https://twitter.com/uenozousui",
+            "other": "https://uenozousui.tumblr.com/"
+        },
+        "charIDs": [
+            "char_343_tknogi"
+        ]
+    },
+    "唯@W": {
+        "links": {
+            "weibo": "https://weibo.com/hoshieve",
+            "pixiv": "https://www.pixiv.net/member.php?id=230943",
+            "twitter": "https://twitter.com/hoshieve",
+            "other": null
+        },
+        "charIDs": [
+            "char_002_amiya",
+            "char_010_chen",
+            "char_017_huang",
+            "char_385_finlpp",
+            "char_391_rosmon"
+        ]
+    },
+    "戏言咸咸": {
+        "links": {
+            "weibo": "https://weibo.com/gamelifexiyan",
+            "pixiv": "https://www.pixiv.net/users/2745520",
+            "twitter": null,
+            "other": null
+        },
+        "charIDs": [
+            "char_149_scave"
+        ]
+    },
+    "下野宏铭": {
+        "links": {
+            "weibo": "https://weibo.com/yoomario",
+            "pixiv": null,
+            "twitter": null,
+            "other": null
+        },
+        "charIDs": [
+            "char_122_beagle",
+            "char_123_fang",
+            "char_124_kroos",
+            "char_121_lava",
+            "char_120_hibisc",
+            "char_117_myrrh",
+            "char_193_frostl",
+            "char_290_vigna",
+            "char_281_popka",
+            "char_308_swire",
+            "char_326_glacus",
+            "char_260_durnar",
+            "char_133_mm",
+            "char_301_cutter",
+            "char_254_vodfox",
+            "char_400_weedy"
+        ]
+    },
+    "鸭": {
+        "links": {
+            "weibo": "https://weibo.com/yagiinu",
+            "pixiv": null,
+            "twitter": "https://twitter.com/duck_0322",
+            "other": "https://duckku.lofter.com/"
+        },
+        "charIDs": [
+            "char_127_estell"
+        ]
+    },
+    "野崎つばた": {
+        "links": {
+            "weibo": null,
+            "pixiv": "https://www.pixiv.net/users/1773916",
+            "twitter": "https://twitter.com/TsubaTako",
+            "other": "https://tsubatako.jimdofree.com/"
+        },
+        "charIDs": [
+            "char_373_lionhd"
+        ]
+    },
+    "一立里子": {
+        "links": {
+            "weibo": "https://weibo.com/u/3739431615",
+            "pixiv": null,
+            "twitter": null,
+            "other": null
+        },
+        "charIDs": [
+            "char_208_melan",
+            "char_209_ardign",
+            "char_210_stward",
+            "char_211_adnach",
+            "char_212_ansel"
+        ]
+    },
+    "我妻洛酱": {
+        "links": {
+            "weibo": "https://weibo.com/agatsumarochan",
+            "pixiv": "https://www.pixiv.net/users/2497307",
+            "twitter": "https://twitter.com/Agatsuma_Rochan",
+            "other": null
+        },
+        "charIDs": [
+            "char_253_greyy"
+        ]
+    },
+    "藻": {
+        "links": {
+            "weibo": null,
+            "pixiv": "https://www.pixiv.net/member.php?id=4813223",
+            "twitter": "https://twitter.com/428clv",
+            "other": null
+        },
+        "charIDs": [
+            "char_275_breeze"
+        ]
+    },
+    "渣念": {
+        "links": {
+            "weibo": "https://weibo.com/u/2978003611",
+            "pixiv": "https://www.pixiv.net/users/4364687",
+            "twitter": "https://twitter.com/NIAN_QAQ",
+            "other": null
+        },
+        "charIDs": [
+            "char_145_prove"
+        ]
+    },
+    "alchemaniac": {
+        "links": {
+            "weibo": "https://weibo.com/u/6583151762",
+            "pixiv": null,
+            "twitter": "https://twitter.com/gilangak92",
+            "other": null
+        },
+        "charIDs": [
+            "char_220_grani",
+            "char_263_skadi"
+        ]
+    },
+    "Anmi": {
+        "links": {
+            "weibo": "https://weibo.com/u/5732727922",
+            "pixiv": "https://www.pixiv.net/users/212801",
+            "twitter": "https://twitter.com/Anmi_",
+            "other": null
+        },
+        "charIDs": [
+            "char_180_amgoat"
+        ]
+    },
+    "アシマ": {
+        "links": {
+            "weibo": null,
+            "pixiv": "https://www.pixiv.net/users/2642047",
+            "twitter": "https://twitter.com/roro046",
+            "other": "https://ashima-flourish.tumblr.com/"
+        },
+        "charIDs": [
+            "char_258_podego",
+            "char_336_folivo"
+        ]
+    },
+    "Ask": {
+        "links": {
+            "weibo": "https://weibo.com/askzy",
+            "pixiv": "https://www.pixiv.net/users/1980643",
+            "twitter": "https://twitter.com/askziye",
+            "other": null
+        },
+        "charIDs": [
+            "char_350_surtr"
+        ]
+    },
+    "aZLing4": {
+        "links": {
+            "weibo": "https://weibo.com/aZLing4",
+            "pixiv": "https://www.pixiv.net/member.php?id=3488478",
+            "twitter": null,
+            "other": null
+        },
+        "charIDs": [
+            "char_158_milu",
+            "char_405_absin",
+            "char_415_flint"
+        ]
+    },
+    "Cenm0": {
+        "links": {
+            "weibo": "https://weibo.com/Cenm0",
+            "pixiv": "https://www.pixiv.net/users/11690768",
+            "twitter": "https://twitter.com/guiyueshenshi",
+            "other": null
+        },
+        "charIDs": [
+            "char_381_bubble"
+        ]
+    },
+    "Chuzenji": {
+        "links": {
+            "weibo": "https://weibo.com/u/5249045642",
+            "pixiv": null,
+            "twitter": "https://twitter.com/_Chuzenji_",
+            "other": null
+        },
+        "charIDs": [
+            "char_411_tomimi",
+            "char_436_whispr"
+        ]
+    },
+    "deel": {
+        "links": {
+            "weibo": "https://weibo.com/radiokeg",
+            "pixiv": "https://www.pixiv.net/member.php?id=418555",
+            "twitter": "https://twitter.com/radiokeg",
+            "other": "https://deel.tumblr.com/"
+        },
+        "charIDs": [
+            "char_192_falco"
+        ]
+    },
+    "HUG": {
+        "links": {
+            "weibo": "https://weibo.com/PetroleummonsterHUG",
+            "pixiv": "https://www.pixiv.net/member.php?id=3623884",
+            "twitter": null,
+            "other": null
+        },
+        "charIDs": [
+            "char_126_shotst",
+            "char_183_skgoat"
+        ]
+    },
+    "Infukun": {
+        "links": {
+            "weibo": "https://weibo.com/u/2983041193",
+            "pixiv": "https://www.pixiv.net/users/5065896",
+            "twitter": "https://twitter.com/infukun",
+            "other": null
+        },
+        "charIDs": [
+            "char_112_siege",
+            "char_155_tiger",
+            "char_136_hsguma",
+            "char_144_red",
+            "char_356_broca",
+            "char_349_chiave",
+            "char_346_aosta"
+        ]
+    },
+    "Iritoa": {
+        "links": {
+            "weibo": "https://weibo.com/iritoa",
+            "pixiv": "https://www.pixiv.net/member.php?id=2150233",
+            "twitter": "https://twitter.com/iritoa_",
+            "other": "http://purana.lofter.com/"
+        },
+        "charIDs": [
+            "char_185_frncat"
+        ]
+    },
+    "カワグチ": {
+        "links": {
+            "weibo": null,
+            "pixiv": "https://www.pixiv.net/users/4340895",
+            "twitter": "https://twitter.com/kwgc_c",
+            "other": "https://sites.google.com/view/kwgc/"
+        },
+        "charIDs": [
+            "char_344_beewax"
+        ]
+    },
+    "KENTllaall": {
+        "links": {
+            "weibo": "https://weibo.com/KENTllaall",
+            "pixiv": "https://www.pixiv.net/member.php?id=9927548",
+            "twitter": null,
+            "other": null
+        },
+        "charIDs": [
+            "char_190_clour"
+        ]
+    },
+    "KuroBlood": {
+        "links": {
+            "weibo": "https://weibo.com/kuroblood",
+            "pixiv": null,
+            "twitter": "https://twitter.com/KuroBlood",
+            "other": "https://akurave.tumblr.com/"
+        },
+        "charIDs": [
+            "char_243_waaifu",
+            "char_225_haak",
+            "char_226_hmau"
+        ]
+    },
+    "Liduke": {
+        "links": {
+            "weibo": "https://weibo.com/liduke",
+            "pixiv": "https://www.pixiv.net/users/38088",
+            "twitter": "https://twitter.com/lidukelaya",
+            "other": null
+        },
+        "charIDs": [
+            "char_340_shwaz",
+            "char_188_helage",
+            "char_113_cqbw",
+            "char_416_zumama"
+        ]
+    },
+    "LLC": {
+        "links": {
+            "weibo": "https://weibo.com/397674305llc",
+            "pixiv": "https://www.pixiv.net/users/2624712",
+            "twitter": null,
+            "other": null
+        },
+        "charIDs": [
+            "char_129_bluep",
+            "char_187_ccheal",
+            "char_130_doberm",
+            "char_218_cuttle"
+        ]
+    },
+    "LM7": {
+        "links": {
+            "weibo": "https://weibo.com/u/5674786286",
+            "pixiv": "https://www.pixiv.net/users/420928",
+            "twitter": "https://twitter.com/__LM7__",
+            "other": "https://www.instagram.com/__lm7__/"
+        },
+        "charIDs": [
+            "char_291_aglina",
+            "char_2013_cerber"
+        ]
+    },
+    "Lpip": {
+        "links": {
+            "weibo": null,
+            "pixiv": "https://www.pixiv.net/users/6996493",
+            "twitter": "https://twitter.com/lpmya",
+            "other": null
+        },
+        "charIDs": [
+            "char_164_nightm"
+        ]
+    },
+    "m9nokuro": {
+        "links": {
+            "weibo": "https://weibo.com/u/5763547141",
+            "pixiv": "https://www.pixiv.net/member.php?id=3406960",
+            "twitter": null,
+            "other": null
+        },
+        "charIDs": [
+            "char_240_wyvern",
+            "char_236_rope",
+            "char_235_jesica",
+            "char_282_catap",
+            "char_367_swllow",
+            "char_302_glaze",
+            "char_345_folnic",
+            "char_311_mudrok"
+        ]
+    },
+    "Nagu": {
+        "links": {
+            "weibo": "https://weibo.com/wooperfuri",
+            "pixiv": "https://www.pixiv.net/users/316388",
+            "twitter": "https://twitter.com/wooperfuri",
+            "other": null
+        },
+        "charIDs": [
+            "char_347_jaksel"
+        ]
+    },
+    "neco": {
+        "links": {
+            "weibo": "https://weibo.com/p/1005057283374186/",
+            "pixiv": "https://www.pixiv.net/users/777703",
+            "twitter": "https://twitter.com/neco_person",
+            "other": null
+        },
+        "charIDs": [
+            "char_163_hpsts"
+        ]
+    },
+    "ヌードル": {
+        "links": {
+            "weibo": null,
+            "pixiv": "https://www.pixiv.net/users/19816835",
+            "twitter": "https://twitter.com/11nuudoru",
+            "other": null
+        },
+        "charIDs": [
+            "char_388_mint"
+        ]
+    },
+    "NoriZC": {
+        "links": {
+            "weibo": "https://weibo.com/zicaitangxiansheng",
+            "pixiv": "https://www.pixiv.net/users/4592232",
+            "twitter": "https://twitter.com/NoriZCI",
+            "other": null
+        },
+        "charIDs": [
+            "char_108_silent",
+            "char_134_ifrit",
+            "char_202_demkni",
+            "char_248_mgllan",
+            "char_383_snsant",
+            "char_294_ayer"
+        ]
+    },
+    "RAYVON": {
+        "links": {
+            "weibo": null,
+            "pixiv": "https://www.pixiv.net/users/2697980",
+            "twitter": "https://twitter.com/rayvon_in_twtr",
+            "other": "https://rayvon-in-tmbr.tumblr.com/"
+        },
+        "charIDs": [
+            "char_252_bibeak"
+        ]
+    },
+    "REALMBW": {
+        "links": {
+            "weibo": "https://weibo.com/realmbw",
+            "pixiv": "https://www.pixiv.net/users/529070",
+            "twitter": null,
+            "other": null
+        },
+        "charIDs": [
+            "char_110_deepcl"
+        ]
+    },
+    "れおえん": {
+        "links": {
+            "weibo": null,
+            "pixiv": "https://www.pixiv.net/users/3927625",
+            "twitter": "https://twitter.com/reoenl",
+            "other": "https://reoenl.com/"
+        },
+        "charIDs": [
+            "char_328_cammou",
+            "char_365_aprl"
+        ]
+    },
+    "Skade": {
+        "links": {
+            "weibo": "https://weibo.com/skadels",
+            "pixiv": "https://www.pixiv.net/users/25193",
+            "twitter": "https://twitter.com/skadels",
+            "other": null
+        },
+        "charIDs": [
+            "char_501_durin",
+            "char_502_nblade",
+            "char_204_platnm",
+            "char_115_headbr",
+            "char_195_glassb",
+            "char_196_sunbr",
+            "char_179_cgbird",
+            "char_143_ghost",
+            "char_141_nights",
+            "char_150_snakek",
+            "char_278_orchid",
+            "char_348_ceylon",
+            "char_279_excu",
+            "char_401_elysm",
+            "char_250_phatom",
+            "char_197_poca"
+        ]
+    },
+    "STAR影法师": {
+        "links": {
+            "weibo": "https://weibo.com/shadowmagician",
+            "pixiv": "https://www.pixiv.net/users/529590",
+            "twitter": "https://twitter.com/starshadowmagic",
+            "other": "http://starshadow.lofter.com/"
+        },
+        "charIDs": [
+            "char_261_sddrag"
+        ]
+    },
+    "TEAM EXPNDR": {
+        "links": {
+            "weibo": null,
+            "pixiv": "https://www.pixiv.net/users/1585286",
+            "twitter": "https://twitter.com/cgornotcg",
+            "other": null
+        },
+        "charIDs": [
+            "char_378_asbest"
+        ]
+    },
+    "toast": {
+        "links": {
+            "weibo": null,
+            "pixiv": "https://www.pixiv.net/users/433000",
+            "twitter": "https://twitter.com/littleb623",
+            "other": null
+        },
+        "charIDs": [
+            "char_137_brownb"
+        ]
+    },
+    "TOKI": {
+        "links": {
+            "weibo": "https://weibo.com/swordartonly",
+            "pixiv": "https://www.pixiv.net/users/4565747",
+            "twitter": "https://twitter.com/Renatus1943",
+            "other": null
+        },
+        "charIDs": [
+            "char_219_meteo",
+            "char_106_franka",
+            "char_107_liskam",
+            "char_166_skfire",
+            "char_286_cast3",
+            "char_285_medic2",
+            "char_230_savage",
+            "char_376_therex"
+        ]
+    },
+    "TOMATO": {
+        "links": {
+            "weibo": "https://weibo.com/p/1005052235661121",
+            "pixiv": "https://www.pixiv.net/users/5276533",
+            "twitter": "https://twitter.com/lsj_tomato",
+            "other": null
+        },
+        "charIDs": [
+            "char_159_peacok"
+        ]
+    },
+    "umo_yszx": {
+        "links": {
+            "weibo": "https://weibo.com/umomu",
+            "pixiv": "https://www.pixiv.net/users/272566",
+            "twitter": "https://twitter.com/umo_yszx",
+            "other": "https://umo-summer.lofter.com/"
+        },
+        "charIDs": [
+            "char_271_spikes"
+        ]
+    },
+    "u介": {
+        "links": {
+            "weibo": null,
+            "pixiv": "https://www.pixiv.net/users/915945",
+            "twitter": "https://twitter.com/u_suke_rs",
+            "other": null
+        },
+        "charIDs": [
+            "char_222_bpipe"
+        ]
+    },
+    "YUJI": {
+        "links": {
+            "weibo": "https://weibo.com/Fantasia7th",
+            "pixiv": "https://www.pixiv.net/member.php?id=8188164",
+            "twitter": "https://twitter.com/YUJIfantasia",
+            "other": null
+        },
+        "charIDs": [
+            "char_274_astesi"
+        ]
+    }
+}
