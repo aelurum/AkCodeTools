@@ -18,7 +18,7 @@
         "links": {
             "weibo": "https://weibo.com/u/2235541213",
             "pixiv": "https://www.pixiv.net/users/2957827",
-            "twitter": null,
+            "twitter": "https://twitter.com/bukeranwu",
             "other": null
         },
         "charIDs": [
@@ -30,7 +30,7 @@
             "weibo": "https://weibo.com/danlanlanzi",
             "pixiv": "https://www.pixiv.net/users/16233751",
             "twitter": null,
-            "other": null
+            "other": "https://danlan884.lofter.com/"
         },
         "charIDs": [
             "char_181_flower",
@@ -52,8 +52,8 @@
         "links": {
             "weibo": "https://weibo.com/lowlight",
             "pixiv": "https://www.pixiv.net/users/904187",
-            "twitter": null,
-            "other": null
+            "twitter": "https://twitter.com/uminekolk",
+            "other": "https://www.deviantart.com/lowlightk"
         },
         "charIDs": [
             "char_009_12fce"
@@ -75,7 +75,7 @@
             "weibo": "https://weibo.com/u/3188613133",
             "pixiv": "https://www.pixiv.net/users/4462245",
             "twitter": "https://twitter.com/coneyrivard",
-            "other": null
+            "other": "http://huanxiangheitu.lofter.com/"
         },
         "charIDs": [
             "char_242_otter",
@@ -178,7 +178,7 @@
     "唯@W": {
         "links": {
             "weibo": "https://weibo.com/hoshieve",
-            "pixiv": "https://www.pixiv.net/member.php?id=230943",
+            "pixiv": "https://www.pixiv.net/users/230943",
             "twitter": "https://twitter.com/hoshieve",
             "other": null
         },
@@ -194,7 +194,7 @@
         "links": {
             "weibo": "https://weibo.com/gamelifexiyan",
             "pixiv": "https://www.pixiv.net/users/2745520",
-            "twitter": null,
+            "twitter": "https://twitter.com/Rain344423386",
             "other": null
         },
         "charIDs": [
@@ -204,7 +204,7 @@
     "下野宏铭": {
         "links": {
             "weibo": "https://weibo.com/yoomario",
-            "pixiv": null,
+            "pixiv": "https://www.pixiv.net/users/3235102",
             "twitter": null,
             "other": null
         },
@@ -240,7 +240,7 @@
     },
     "野崎つばた": {
         "links": {
-            "weibo": null,
+            "weibo": "https://www.weibo.com/u/7057436223",
             "pixiv": "https://www.pixiv.net/users/1773916",
             "twitter": "https://twitter.com/TsubaTako",
             "other": "https://tsubatako.jimdofree.com/"
@@ -278,7 +278,7 @@
     "藻": {
         "links": {
             "weibo": null,
-            "pixiv": "https://www.pixiv.net/member.php?id=4813223",
+            "pixiv": "https://www.pixiv.net/users/4813223",
             "twitter": "https://twitter.com/428clv",
             "other": null
         },
@@ -300,9 +300,9 @@
     "alchemaniac": {
         "links": {
             "weibo": "https://weibo.com/u/6583151762",
-            "pixiv": null,
+            "pixiv": "https://www.pixiv.net/en/users/3639896",
             "twitter": "https://twitter.com/gilangak92",
-            "other": null
+            "other": "http://gilangandrian.com/"
         },
         "charIDs": [
             "char_220_grani",
@@ -314,7 +314,7 @@
             "weibo": "https://weibo.com/u/5732727922",
             "pixiv": "https://www.pixiv.net/users/212801",
             "twitter": "https://twitter.com/Anmi_",
-            "other": null
+            "other": "https://anmi.tumblr.com/"
         },
         "charIDs": [
             "char_180_amgoat"
@@ -346,7 +346,7 @@
     "aZLing4": {
         "links": {
             "weibo": "https://weibo.com/aZLing4",
-            "pixiv": "https://www.pixiv.net/member.php?id=3488478",
+            "pixiv": "https://www.pixiv.net/users/3488478",
             "twitter": null,
             "other": null
         },
@@ -382,7 +382,7 @@
     "deel": {
         "links": {
             "weibo": "https://weibo.com/radiokeg",
-            "pixiv": "https://www.pixiv.net/member.php?id=418555",
+            "pixiv": "https://www.pixiv.net/users/418555",
             "twitter": "https://twitter.com/radiokeg",
             "other": "https://deel.tumblr.com/"
         },
@@ -393,9 +393,9 @@
     "HUG": {
         "links": {
             "weibo": "https://weibo.com/PetroleummonsterHUG",
-            "pixiv": "https://www.pixiv.net/member.php?id=3623884",
-            "twitter": null,
-            "other": null
+            "pixiv": "https://www.pixiv.net/users/3623884",
+            "twitter": "https://twitter.com/Hugplms",
+            "other": "https://pmmurderer.lofter.com/"
         },
         "charIDs": [
             "char_126_shotst",
@@ -422,7 +422,7 @@
     "Iritoa": {
         "links": {
             "weibo": "https://weibo.com/iritoa",
-            "pixiv": "https://www.pixiv.net/member.php?id=2150233",
+            "pixiv": "https://www.pixiv.net/users/2150233",
             "twitter": "https://twitter.com/iritoa_",
             "other": "http://purana.lofter.com/"
         },
@@ -444,7 +444,7 @@
     "KENTllaall": {
         "links": {
             "weibo": "https://weibo.com/KENTllaall",
-            "pixiv": "https://www.pixiv.net/member.php?id=9927548",
+            "pixiv": "https://www.pixiv.net/users/9927548",
             "twitter": null,
             "other": null
         },
@@ -455,7 +455,7 @@
     "KuroBlood": {
         "links": {
             "weibo": "https://weibo.com/kuroblood",
-            "pixiv": null,
+            "pixiv": "https://www.pixiv.net/users/3209119",
             "twitter": "https://twitter.com/KuroBlood",
             "other": "https://akurave.tumblr.com/"
         },
@@ -519,7 +519,7 @@
     "m9nokuro": {
         "links": {
             "weibo": "https://weibo.com/u/5763547141",
-            "pixiv": "https://www.pixiv.net/member.php?id=3406960",
+            "pixiv": "https://www.pixiv.net/users/3406960",
             "twitter": null,
             "other": null
         },
@@ -598,7 +598,7 @@
         "links": {
             "weibo": "https://weibo.com/realmbw",
             "pixiv": "https://www.pixiv.net/users/529070",
-            "twitter": null,
+            "twitter": "https://twitter.com/realmbw",
             "other": null
         },
         "charIDs": [
@@ -659,7 +659,7 @@
             "weibo": null,
             "pixiv": "https://www.pixiv.net/users/1585286",
             "twitter": "https://twitter.com/cgornotcg",
-            "other": null
+            "other": "https://twitter.com/TEAM_EXPNDR"
         },
         "charIDs": [
             "char_378_asbest"
@@ -730,7 +730,7 @@
     "YUJI": {
         "links": {
             "weibo": "https://weibo.com/Fantasia7th",
-            "pixiv": "https://www.pixiv.net/member.php?id=8188164",
+            "pixiv": "https://www.pixiv.net/users/8188164",
             "twitter": "https://twitter.com/YUJIfantasia",
             "other": null
         },
