@@ -353,7 +353,8 @@
         "charIDs": [
             "char_158_milu",
             "char_405_absin",
-            "char_415_flint"
+            "char_415_flint",
+            "char_451_robin"
         ]
     },
     "Cenm0": {
@@ -572,7 +573,7 @@
             "weibo": "https://weibo.com/zicaitangxiansheng",
             "pixiv": "https://www.pixiv.net/users/4592232",
             "twitter": "https://twitter.com/NoriZCI",
-            "other": null
+            "other": "https://norizci.lofter.com/"
         },
         "charIDs": [
             "char_108_silent",
@@ -580,7 +581,8 @@
             "char_202_demkni",
             "char_248_mgllan",
             "char_383_snsant",
-            "char_294_ayer"
+            "char_294_ayer",
+            "char_214_kafka"
         ]
     },
     "RAYVON": {
@@ -705,6 +707,17 @@
             "char_159_peacok"
         ]
     },
+    "TrNyteal": {
+        "links": {
+            "weibo": "https://weibo.com/TrNyteal",
+            "pixiv": null,
+            "twitter": "https://twitter.com/CiloRanko",
+            "other": "https://trnyteal.lofter.com/"
+        },
+        "charIDs": [
+            "char_440_pinecn"
+        ]
+    },
     "umo_yszx": {
         "links": {
             "weibo": "https://weibo.com/umomu",
@@ -714,6 +727,17 @@
         },
         "charIDs": [
             "char_271_spikes"
+        ]
+    },
+    "WincalBlanke": {
+        "links": {
+            "weibo": "https://weibo.com/p/1005053232278332",
+            "pixiv": "https://www.pixiv.net/users/6382838",
+            "twitter": "https://twitter.com/wincalblanke",
+            "other": "https://www.deviantart.com/wincalblanke"
+        },
+        "charIDs": [
+            "char_264_f12yin"
         ]
     },
     "u介": {
