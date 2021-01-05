@@ -224,7 +224,8 @@
             "char_133_mm",
             "char_301_cutter",
             "char_254_vodfox",
-            "char_400_weedy"
+            "char_400_weedy",
+            "char_338_iris"
         ]
     },
     "鸭": {
@@ -262,6 +263,17 @@
             "char_210_stward",
             "char_211_adnach",
             "char_212_ansel"
+        ]
+    },
+    "一千": {
+        "links": {
+            "weibo": "https://weibo.com/u/6054251875",
+            "pixiv": null,
+            "twitter": null,
+            "other": null
+        },
+        "charIDs": [
+            "char_452_bstalk"
         ]
     },
     "我妻洛酱": {
@@ -306,7 +318,8 @@
         },
         "charIDs": [
             "char_220_grani",
-            "char_263_skadi"
+            "char_263_skadi",
+            "char_332_archet"
         ]
     },
     "Anmi": {
