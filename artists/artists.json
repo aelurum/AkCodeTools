@@ -37,6 +37,17 @@
             "char_366_acdrop"
         ]
     },
+    "多元菌": {
+        "links": {
+            "weibo": "https://weibo.com/u/2034868604",
+            "pixiv": "https://www.pixiv.net/users/622990",
+            "twitter": "https://twitter.com/morearea",
+            "other": null
+        },
+        "charIDs": [
+            "char_362_saga"
+        ]
+    },
     "釜飯轟々丸": {
         "links": {
             "weibo": null,
@@ -86,7 +97,8 @@
             "char_140_whitew",
             "char_213_mostma",
             "char_2014_nian",
-            "char_293_thorns"
+            "char_293_thorns",
+            "char_2015_dusk"
         ]
     },
     "将": {
@@ -225,7 +237,8 @@
             "char_301_cutter",
             "char_254_vodfox",
             "char_400_weedy",
-            "char_338_iris"
+            "char_338_iris",
+            "char_1011_lava2"
         ]
     },
     "鸭": {
@@ -656,7 +669,8 @@
             "char_279_excu",
             "char_401_elysm",
             "char_250_phatom",
-            "char_197_poca"
+            "char_197_poca",
+            "char_455_nothin"
         ]
     },
     "STAR影法师": {
