@@ -779,6 +779,20 @@
             "char_222_bpipe"
         ]
     },
+    "Ubisoft": {
+        "links": {
+            "weibo": null,
+            "pixiv": null,
+            "twitter": null,
+            "other": null
+        },
+        "charIDs": [
+            "char_456_ash",
+            "char_457_blitz",
+            "char_458_rfrost",
+            "char_459_tachak"
+        ]
+    },
     "YUJI": {
         "links": {
             "weibo": "https://weibo.com/Fantasia7th",
