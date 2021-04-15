@@ -381,7 +381,8 @@
             "char_405_absin",
             "char_415_flint",
             "char_451_robin",
-            "char_402_tuye"
+            "char_402_tuye",
+            "char_304_zebra"
         ]
     },
     "Cenm0": {
@@ -646,6 +647,17 @@
             "char_365_aprl"
         ]
     },
+    "山×2": {
+        "links": {
+            "weibo": null,
+            "pixiv": "https://www.pixiv.net/users/101608",
+            "twitter": "https://twitter.com/yamakakeru2",
+            "other": null
+        },
+        "charIDs": [
+            "char_363_toddi"
+        ]
+    },
     "Skade": {
         "links": {
             "weibo": "https://weibo.com/skadels",
@@ -670,7 +682,8 @@
             "char_401_elysm",
             "char_250_phatom",
             "char_197_poca",
-            "char_455_nothin"
+            "char_455_nothin",
+            "char_472_pasngr"
         ]
     },
     "STAR影法师": {
