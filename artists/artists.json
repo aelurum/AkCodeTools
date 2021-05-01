@@ -176,6 +176,17 @@
             "char_171_bldsk"
         ]
     },
+    "山×2": {
+        "links": {
+            "weibo": null,
+            "pixiv": "https://www.pixiv.net/users/101608",
+            "twitter": "https://twitter.com/yamakakeru2",
+            "other": null
+        },
+        "charIDs": [
+            "char_363_toddi"
+        ]
+    },
     "上埜": {
         "links": {
             "weibo": "https://www.weibo.com/u/7146844303",
@@ -199,7 +210,8 @@
             "char_010_chen",
             "char_017_huang",
             "char_385_finlpp",
-            "char_391_rosmon"
+            "char_391_rosmon",
+            "char_003_kalts"
         ]
     },
     "戏言咸咸": {
@@ -239,6 +251,17 @@
             "char_400_weedy",
             "char_338_iris",
             "char_1011_lava2"
+        ]
+    },
+    "熊太": {
+        "links": {
+            "weibo": "https://weibo.com/u/5804823935",
+            "pixiv": null,
+            "twitter": null,
+            "other": null
+        },
+        "charIDs": [
+            "char_475_akafyu"
         ]
     },
     "鸭": {
@@ -332,7 +355,8 @@
         "charIDs": [
             "char_220_grani",
             "char_263_skadi",
-            "char_332_archet"
+            "char_332_archet",
+            "char_1012_skadi2"
         ]
     },
     "Anmi": {
@@ -405,7 +429,8 @@
         },
         "charIDs": [
             "char_411_tomimi",
-            "char_436_whispr"
+            "char_436_whispr",
+            "char_474_glady"
         ]
     },
     "deel": {
@@ -647,17 +672,6 @@
             "char_365_aprl"
         ]
     },
-    "山×2": {
-        "links": {
-            "weibo": null,
-            "pixiv": "https://www.pixiv.net/users/101608",
-            "twitter": "https://twitter.com/yamakakeru2",
-            "other": null
-        },
-        "charIDs": [
-            "char_363_toddi"
-        ]
-    },
     "Skade": {
         "links": {
             "weibo": "https://weibo.com/skadels",
@@ -811,7 +825,7 @@
             "weibo": "https://weibo.com/Fantasia7th",
             "pixiv": "https://www.pixiv.net/users/8188164",
             "twitter": "https://twitter.com/YUJIfantasia",
-            "other": null
+            "other": "https://youkily.lofter.com/"
         },
         "charIDs": [
             "char_274_astesi"
