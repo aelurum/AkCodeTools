@@ -250,7 +250,8 @@
             "char_254_vodfox",
             "char_400_weedy",
             "char_338_iris",
-            "char_1011_lava2"
+            "char_1011_lava2",
+            "char_369_bena"
         ]
     },
     "熊太": {
@@ -320,7 +321,8 @@
             "other": null
         },
         "charIDs": [
-            "char_253_greyy"
+            "char_253_greyy",
+            "char_478_kirara"
         ]
     },
     "藻": {
@@ -343,6 +345,17 @@
         },
         "charIDs": [
             "char_145_prove"
+        ]
+    },
+    "织布机loom": {
+        "links": {
+            "weibo": "https://weibo.com/zhibujiloom",
+            "pixiv": "https://www.pixiv.net/users/13695413",
+            "twitter": "https://twitter.com/Zhibujiloom",
+            "other": null
+        },
+        "charIDs": [
+            "char_469_indigo"
         ]
     },
     "alchemaniac": {
@@ -492,7 +505,8 @@
             "other": "https://sites.google.com/view/kwgc/"
         },
         "charIDs": [
-            "char_344_beewax"
+            "char_344_beewax",
+            "char_426_billro"
         ]
     },
     "KENTllaall": {
