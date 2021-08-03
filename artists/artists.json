@@ -211,7 +211,8 @@
             "char_017_huang",
             "char_385_finlpp",
             "char_391_rosmon",
-            "char_003_kalts"
+            "char_003_kalts",
+            "char_1013_chen2"
         ]
     },
     "戏言咸咸": {
@@ -310,7 +311,8 @@
             "other": null
         },
         "charIDs": [
-            "char_452_bstalk"
+            "char_452_bstalk",
+            "char_486_takila"
         ]
     },
     "我妻洛酱": {
@@ -534,6 +536,17 @@
             "char_226_hmau"
         ]
     },
+    "LAL!ROLE": {
+        "links": {
+            "weibo": null,
+            "pixiv": "https://www.pixiv.net/users/10537869",
+            "twitter": "https://twitter.com/laxxxli",
+            "other": null
+        },
+        "charIDs": [
+            "char_421_crow"
+        ]
+    },
     "Liduke": {
         "links": {
             "weibo": "https://weibo.com/liduke",
@@ -612,6 +625,17 @@
         },
         "charIDs": [
             "char_347_jaksel"
+        ]
+    },
+    "Namie": {
+        "links": {
+            "weibo": null,
+            "pixiv": "https://www.pixiv.net/users/3829860",
+            "twitter": "https://twitter.com/namgoreng",
+            "other": "http://namface.tumblr.com/"
+        },
+        "charIDs": [
+            "char_437_mizuki"
         ]
     },
     "neco": {
