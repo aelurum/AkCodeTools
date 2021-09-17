@@ -252,7 +252,8 @@
             "char_400_weedy",
             "char_338_iris",
             "char_1011_lava2",
-            "char_369_bena"
+            "char_369_bena",
+            "char_479_sleach"
         ]
     },
     "熊太": {
@@ -489,6 +490,17 @@
             "char_346_aosta"
         ]
     },
+    "IRIS_呓": {
+        "links": {
+            "weibo": "https://weibo.com/u/2100722793",
+            "pixiv": "https://www.pixiv.net/users/23657695",
+            "twitter": "https://twitter.com/IRIS_irisii",
+            "other": "https://irisii.lofter.com/"
+        },
+        "charIDs": [
+            "char_484_robrta"
+        ]
+    },
     "Iritoa": {
         "links": {
             "weibo": "https://weibo.com/iritoa",
@@ -498,6 +510,17 @@
         },
         "charIDs": [
             "char_185_frncat"
+        ]
+    },
+    "Jacknife": {
+        "links": {
+            "weibo": "https://weibo.com/u/5648536664",
+            "pixiv": null,
+            "twitter": "https://twitter.com/_Jacknife_",
+            "other": "https://naifu037.lofter.com/"
+        },
+        "charIDs": [
+            "char_473_mberry"
         ]
     },
     "カワグチ": {
