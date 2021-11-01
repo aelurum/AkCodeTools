@@ -140,7 +140,8 @@
             "char_306_leizi",
             "char_379_sesa",
             "char_265_sophia",
-            "char_423_blemsh"
+            "char_423_blemsh",
+            "char_1014_nearl2"
         ]
     },
     "谜肘": {
@@ -350,6 +351,17 @@
             "char_145_prove"
         ]
     },
+    "折射镜": {
+        "links": {
+            "weibo": "https://weibo.com/u/3168778942",
+            "pixiv": "https://www.pixiv.net/users/19863040",
+            "twitter": null,
+            "other": "https://zuishichunqiu804.lofter.com/"
+        },
+        "charIDs": [
+            "char_4004_pudd"
+        ]
+    },
     "织布机loom": {
         "links": {
             "weibo": "https://weibo.com/zhibujiloom",
@@ -520,7 +532,8 @@
             "other": "https://naifu037.lofter.com/"
         },
         "charIDs": [
-            "char_473_mberry"
+            "char_473_mberry",
+            "char_489_serum"
         ]
     },
     "カワグチ": {
@@ -582,6 +595,17 @@
             "char_188_helage",
             "char_113_cqbw",
             "char_416_zumama"
+        ]
+    },
+    "Liyu黎": {
+        "links": {
+            "weibo": "https://weibo.com/u/5979033109",
+            "pixiv": null,
+            "twitter": null,
+            "other": null
+        },
+        "charIDs": [
+            "char_449_glider"
         ]
     },
     "LLC": {
@@ -699,7 +723,10 @@
             "char_294_ayer",
             "char_214_kafka",
             "char_430_fartth",
-            "char_431_ashlok"
+            "char_431_ashlok",
+            "char_420_flamtl",
+            "char_496_wildmn",
+            "char_4000_jnight"
         ]
     },
     "RAYVON": {
