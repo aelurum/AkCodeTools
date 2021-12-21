@@ -141,7 +141,9 @@
             "char_379_sesa",
             "char_265_sophia",
             "char_423_blemsh",
-            "char_1014_nearl2"
+            "char_1014_nearl2",
+            "char_206_gnosis",
+            "char_4013_kjera"
         ]
     },
     "谜肘": {
@@ -580,7 +582,8 @@
             "other": null
         },
         "charIDs": [
-            "char_421_crow"
+            "char_421_crow",
+            "char_422_aurora"
         ]
     },
     "Liduke": {
