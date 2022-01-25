@@ -218,6 +218,17 @@
             "char_1013_chen2"
         ]
     },
+    "温泉瓜": {
+        "links": {
+            "weibo": "https://weibo.com/u/5401180997",
+            "pixiv": "https://www.pixiv.net/users/3318407",
+            "twitter": "https://twitter.com/sg080915",
+            "other": null
+        },
+        "charIDs": [
+            "char_476_blkngt"
+        ]
+    },
     "戏言咸咸": {
         "links": {
             "weibo": "https://weibo.com/gamelifexiyan",
@@ -256,7 +267,9 @@
             "char_338_iris",
             "char_1011_lava2",
             "char_369_bena",
-            "char_479_sleach"
+            "char_479_sleach",
+            "char_2023_ling",
+            "char_1021_kroos2"
         ]
     },
     "熊太": {
@@ -573,7 +586,8 @@
         "charIDs": [
             "char_243_waaifu",
             "char_225_haak",
-            "char_226_hmau"
+            "char_226_hmau",
+            "char_322_lmlee"
         ]
     },
     "LAL!ROLE": {
