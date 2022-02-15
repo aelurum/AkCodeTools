@@ -701,7 +701,8 @@
             "other": "http://namface.tumblr.com/"
         },
         "charIDs": [
-            "char_437_mizuki"
+            "char_437_mizuki",
+            "char_377_gdglow"
         ]
     },
     "neco": {
@@ -938,7 +939,8 @@
             "other": "https://youkily.lofter.com/"
         },
         "charIDs": [
-            "char_274_astesi"
+            "char_274_astesi",
+            "char_492_quercu"
         ]
     }
 }
