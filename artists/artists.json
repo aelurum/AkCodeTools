@@ -98,7 +98,8 @@
             "char_213_mostma",
             "char_2014_nian",
             "char_293_thorns",
-            "char_2015_dusk"
+            "char_2015_dusk",
+            "char_300_phenxi"
         ]
     },
     "将": {
@@ -112,6 +113,17 @@
             "char_298_susuro",
             "char_333_sidero",
             "char_358_lisa"
+        ]
+    },
+    "九日九号": {
+        "links": {
+            "weibo": "https://weibo.com/u/2951720454",
+            "pixiv": "https://www.pixiv.net/users/5784354",
+            "twitter": "https://twitter.com/jiur_x",
+            "other": null
+        },
+        "charIDs": [
+            "char_4047_pianst"
         ]
     },
     "竜崎いち": {
@@ -143,7 +155,8 @@
             "char_423_blemsh",
             "char_1014_nearl2",
             "char_206_gnosis",
-            "char_4013_kjera"
+            "char_4013_kjera",
+            "char_4046_ebnhlz"
         ]
     },
     "谜肘": {
@@ -168,17 +181,6 @@
             "char_151_myrtle"
         ]
     },
-    "时辰": {
-        "links": {
-            "weibo": "https://weibo.com/u/3042386674",
-            "pixiv": "https://www.pixiv.net/users/7514361",
-            "twitter": "https://twitter.com/shichen00",
-            "other": "http://shi-chen.lofter.com/"
-        },
-        "charIDs": [
-            "char_171_bldsk"
-        ]
-    },
     "山×2": {
         "links": {
             "weibo": null,
@@ -199,6 +201,28 @@
         },
         "charIDs": [
             "char_343_tknogi"
+        ]
+    },
+    "时辰": {
+        "links": {
+            "weibo": "https://weibo.com/u/3042386674",
+            "pixiv": "https://www.pixiv.net/users/7514361",
+            "twitter": "https://twitter.com/shichen00",
+            "other": "http://shi-chen.lofter.com/"
+        },
+        "charIDs": [
+            "char_171_bldsk"
+        ]
+    },
+    "树豚": {
+        "links": {
+            "weibo": "https://weibo.com/u/1840591667",
+            "pixiv": null,
+            "twitter": null,
+            "other": null
+        },
+        "charIDs": [
+            "char_4041_chnut"
         ]
     },
     "唯@W": {
@@ -226,7 +250,9 @@
             "other": null
         },
         "charIDs": [
-            "char_476_blkngt"
+            "char_476_blkngt",
+            "char_4016_kazema",
+            "char_4043_erato"
         ]
     },
     "戏言咸咸": {
@@ -269,7 +295,8 @@
             "char_369_bena",
             "char_479_sleach",
             "char_2023_ling",
-            "char_1021_kroos2"
+            "char_1021_kroos2",
+            "char_1024_hbisc2"
         ]
     },
     "熊太": {
@@ -280,7 +307,8 @@
             "other": null
         },
         "charIDs": [
-            "char_475_akafyu"
+            "char_475_akafyu",
+            "char_4045_heidi"
         ]
     },
     "鸭": {
@@ -329,7 +357,8 @@
         },
         "charIDs": [
             "char_452_bstalk",
-            "char_486_takila"
+            "char_486_takila",
+            "char_4042_lumen"
         ]
     },
     "我妻洛酱": {
@@ -341,7 +370,8 @@
         },
         "charIDs": [
             "char_253_greyy",
-            "char_478_kirara"
+            "char_478_kirara",
+            "char_1027_greyy2"
         ]
     },
     "藻": {
@@ -382,7 +412,7 @@
             "weibo": "https://weibo.com/zhibujiloom",
             "pixiv": "https://www.pixiv.net/users/13695413",
             "twitter": "https://twitter.com/Zhibujiloom",
-            "other": null
+            "other": "https://mikoto798.lofter.com/"
         },
         "charIDs": [
             "char_469_indigo"
@@ -450,7 +480,8 @@
             "char_451_robin",
             "char_402_tuye",
             "char_304_zebra",
-            "char_485_pallas"
+            "char_485_pallas",
+            "char_4009_irene"
         ]
     },
     "Cenm0": {
@@ -462,7 +493,8 @@
         },
         "charIDs": [
             "char_381_bubble",
-            "char_4025_aprot2"
+            "char_4025_aprot2",
+            "char_4040_rockr"
         ]
     },
     "Chuzenji": {
@@ -475,7 +507,8 @@
         "charIDs": [
             "char_411_tomimi",
             "char_436_whispr",
-            "char_474_glady"
+            "char_474_glady",
+            "char_4036_forcer"
         ]
     },
     "deel": {
@@ -550,7 +583,8 @@
         },
         "charIDs": [
             "char_473_mberry",
-            "char_489_serum"
+            "char_489_serum",
+            "char_4048_doroth"
         ]
     },
     "カワグチ": {
@@ -679,7 +713,8 @@
             "char_367_swllow",
             "char_302_glaze",
             "char_345_folnic",
-            "char_311_mudrok"
+            "char_311_mudrok",
+            "char_4039_horn"
         ]
     },
     "Nagu": {
@@ -714,6 +749,17 @@
         },
         "charIDs": [
             "char_163_hpsts"
+        ]
+    },
+    "nineo": {
+        "links": {
+            "weibo": "https://weibo.com/nineonineo",
+            "pixiv": "https://www.pixiv.net/users/2827978",
+            "twitter": "https://twitter.com/nineoin5024",
+            "other": "https://nineo.lofter.com/"
+        },
+        "charIDs": [
+            "char_433_windft"
         ]
     },
     "ヌードル": {
@@ -808,7 +854,8 @@
             "char_250_phatom",
             "char_197_poca",
             "char_455_nothin",
-            "char_472_pasngr"
+            "char_472_pasngr",
+            "char_1023_ghost2"
         ]
     },
     "STAR影法师": {
@@ -940,7 +987,8 @@
         },
         "charIDs": [
             "char_274_astesi",
-            "char_492_quercu"
+            "char_492_quercu",
+            "char_135_halo"
         ]
     }
 }
