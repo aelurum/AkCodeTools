@@ -126,6 +126,17 @@
             "char_4047_pianst"
         ]
     },
+    "〇亻": {
+        "links": {
+            "weibo": "https://weibo.com/u/2731584365",
+            "pixiv": "https://www.pixiv.net/users/4005946",
+            "twitter": null,
+            "other": "https://bossrin.lofter.com/"
+        },
+        "charIDs": [
+            "char_4054_malist"
+        ]
+    },
     "竜崎いち": {
         "links": {
             "weibo": "https://weibo.com/ryuzakiichi",
@@ -252,7 +263,8 @@
         "charIDs": [
             "char_476_blkngt",
             "char_4016_kazema",
-            "char_4043_erato"
+            "char_4043_erato",
+            "char_497_ctable"
         ]
     },
     "戏言咸咸": {
@@ -508,7 +520,8 @@
             "char_411_tomimi",
             "char_436_whispr",
             "char_474_glady",
-            "char_4036_forcer"
+            "char_4036_forcer",
+            "char_4055_bgsnow"
         ]
     },
     "deel": {
@@ -672,7 +685,8 @@
             "char_129_bluep",
             "char_187_ccheal",
             "char_130_doberm",
-            "char_218_cuttle"
+            "char_218_cuttle",
+            "char_1026_gvial2"
         ]
     },
     "LM7": {
