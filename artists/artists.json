@@ -167,7 +167,8 @@
             "char_1014_nearl2",
             "char_206_gnosis",
             "char_4013_kjera",
-            "char_4046_ebnhlz"
+            "char_4046_ebnhlz",
+            "char_4064_mlynar"
         ]
     },
     "谜肘": {
@@ -841,6 +842,17 @@
         "charIDs": [
             "char_328_cammou",
             "char_365_aprl"
+        ]
+    },
+    "せんむ": {
+        "links": {
+            "weibo": null,
+            "pixiv": "https://www.pixiv.net/users/11729",
+            "twitter": "https://twitter.com/senmudayo",
+            "other": null
+        },
+        "charIDs": [
+            "char_4032_provs"
         ]
     },
     "Skade": {
