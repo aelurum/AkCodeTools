@@ -537,6 +537,17 @@
             "char_192_falco"
         ]
     },
+    "Horin": {
+        "links": {
+            "weibo": "https://www.weibo.com/u/6350862305",
+            "pixiv": "https://www.pixiv.net/users/6030552",
+            "twitter": "https://twitter.com/Horin_xi",
+            "other": null
+        },
+        "charIDs": [
+            "char_4066_highmo"
+        ]
+    },
     "HUG": {
         "links": {
             "weibo": "https://weibo.com/PetroleummonsterHUG",
