@@ -14,6 +14,18 @@
             "char_272_strong"
         ]
     },
+    "板板": {
+        "links": {
+            "weibo": "https://weibo.com/u/7360201790",
+            "pixiv": null,
+            "twitter": null,
+            "other": null
+        },
+        "charIDs": [
+            "char_4062_totter",
+            "char_4071_peper"
+        ]
+    },
     "RAN": {
         "links": {
             "weibo": "https://weibo.com/u/2235541213",
@@ -372,7 +384,8 @@
         "charIDs": [
             "char_452_bstalk",
             "char_486_takila",
-            "char_4042_lumen"
+            "char_4042_lumen",
+            "char_4072_ironmn"
         ]
     },
     "我妻洛酱": {
@@ -574,7 +587,8 @@
             "char_144_red",
             "char_356_broca",
             "char_349_chiave",
-            "char_346_aosta"
+            "char_346_aosta",
+            "char_157_dagda"
         ]
     },
     "IRIS_呓": {
