@@ -111,7 +111,8 @@
             "char_2014_nian",
             "char_293_thorns",
             "char_2015_dusk",
-            "char_300_phenxi"
+            "char_300_phenxi",
+            "char_1028_texas2"
         ]
     },
     "将": {
@@ -137,6 +138,17 @@
         "charIDs": [
             "char_4047_pianst",
             "char_4067_lolxh"
+        ]
+    },
+    "伍秋秋秋秋": {
+        "links": {
+            "weibo": "https://weibo.com/u/3286395242",
+            "pixiv": "https://www.pixiv.net/users/9520655",
+            "twitter": null,
+            "other": "https://fivefall921.lofter.com/"
+        },
+        "charIDs": [
+            "char_4063_quartz"
         ]
     },
     "〇亻": {
@@ -388,6 +400,17 @@
             "char_4072_ironmn"
         ]
     },
+    "三目YYB": {
+        "links": {
+            "weibo": "https://www.weibo.com/u/5185920696",
+            "pixiv": "https://www.pixiv.net/users/11774114",
+            "twitter": "https://twitter.com/sanmuyyb",
+            "other": null
+        },
+        "charIDs": [
+            "char_466_qanik"
+        ]
+    },
     "我妻洛酱": {
         "links": {
             "weibo": "https://weibo.com/agatsumarochan",
@@ -561,6 +584,17 @@
             "char_4066_highmo"
         ]
     },
+    "hou": {
+        "links": {
+            "weibo": null,
+            "pixiv": "https://www.pixiv.net/users/390296",
+            "twitter": "https://twitter.com/honippo",
+            "other": "http://ho0.pya.jp/ppo/"
+        },
+        "charIDs": [
+            "char_427_vigil"
+        ]
+    },
     "HUG": {
         "links": {
             "weibo": "https://weibo.com/PetroleummonsterHUG",
@@ -600,7 +634,9 @@
         },
         "charIDs": [
             "char_484_robrta",
-            "char_4019_ncdeer"
+            "char_4019_ncdeer",
+            "char_4014_lunacu",
+            "char_4065_judge"
         ]
     },
     "Iritoa": {
