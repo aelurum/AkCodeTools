@@ -2,7 +2,7 @@
 
 
 ### Version
-- v0.5b | 29.09.2022
+- v0.6b | 22.11.2022
 - by VaDiM#5824
 
 
@@ -16,7 +16,7 @@
 - `_output`: Auto generated folder with processed portraits
 - `AkPortraitCropping.py`: Script itself
 
-
+	
 ### Requirements
 - Python 3.8+
 - Pillow library (`python -m pip install --upgrade Pillow`)
@@ -27,11 +27,15 @@
 2. Click `Export` -> `All assets` and export assets to the script folder. 
 Note, that the `Texture2D` and `MonoBehaviour` folders **must be empty** if you want to export assets from AssetStudio directly to the script folder.
 Or move exported atlases and jsons to the corresponding folders, if you exported them to another location.
-3. Run `AkPortraitCropping.py` and wait for the result.
+3. Run `AkPortraitCropping.py` and wait for the result. 
+You can also specify format of the output portrait images by running the script with args: `AkPortraitCropping.py -png` for png and `AkPortraitCropping.py -webp` for webp.
 4. Enjoy!
 
 
 ### Version history
+**v0.6b | 22.11.2022**
+- added option to save portraits in webp lossy format
+
 **v0.5b | 29.09.2022**
 - made a small refactoring: changed threads to multiprocessing
 
@@ -50,4 +54,4 @@ Or move exported atlases and jsons to the corresponding folders, if you exported
 
 
 ### Testing
-- Tested on `mrfz_1.9.01_20220923_032351_3f2f1.apk`
+- Tested on `mrfz_1.9.21_20221027_060143_3e57c.apk`

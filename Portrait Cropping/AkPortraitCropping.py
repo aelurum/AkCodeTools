@@ -1,10 +1,11 @@
 #! /usr/bin/env python3
 # -*- coding: utf-8 -*-
 __author__ = 'VaDiM#5824'
-__version__ = "0.5b"
+__version__ = "0.6b"
 
 import json
 import os
+import sys
 import traceback
 from datetime import datetime
 from multiprocessing import Pool
@@ -135,13 +136,13 @@ def load_portrait_hub(json_dir: str, hub_name: str) -> dict:
         return hub
 
 
-def multiprocessing_crop(tex_dir: str, out_dir: str, hub: dict) -> int:
+def multiprocessing_crop(tex_dir: str, out_dir: str, img_format: str, hub: dict) -> int:
     """ Crop sprites using multiprocessing and return processed sprite count. """
     proc_count = 0
     if not os.path.exists(out_dir):
         os.makedirs(out_dir)
 
-    args = [(tex_dir, out_dir, hub, atlas) for atlas in hub['atlases']]
+    args = [(tex_dir, out_dir, img_format, hub, atlas) for atlas in hub['atlases']]
     with Pool(processes=os.cpu_count()) as pool:
         proc_count = sum(pool.map(_crop, args))
 
@@ -151,11 +152,12 @@ def multiprocessing_crop(tex_dir: str, out_dir: str, hub: dict) -> int:
 def _crop(t_args: tuple = None,
           tex_dir: str = '',
           out_dir: str = '',
+          img_format: str = '',
           hub: dict = None,
           atlas: dict = None) -> int:
     """ Crop sprites and return processed sprite count. """
-    if t_args and isinstance(t_args, tuple) and len(t_args) == 4:
-        tex_dir, out_dir, hub, atlas = t_args
+    if t_args and isinstance(t_args, tuple) and len(t_args) == 5:
+        tex_dir, out_dir, img_format, hub, atlas = t_args
 
     sprite_size = (hub['sprite_size']['width'], hub['sprite_size']['height'])
 
@@ -188,8 +190,13 @@ def _crop(t_args: tuple = None,
                                                             max(sprite_size[1] - portrait.height, 0)))
                     portrait = temp
 
-                output_path = os.path.join(out_dir, f'{sprite_name}.png')
-                portrait.save(output_path, format='PNG', compress_level=7)
+                output_path = os.path.join(out_dir, f'{sprite_name}.{img_format.lower()}')
+                save_options = {'format': img_format}
+                if img_format.lower() == 'png':
+                    save_options['compress_level'] = 7
+                elif img_format.lower() == 'webp':
+                    save_options['lossless'] = False
+                portrait.save(output_path, **save_options)
                 proc_count += 1
     print(f'Processed "{atlas["atlas_name"]}" atlas.\n', end='')
 
@@ -197,17 +204,24 @@ def _crop(t_args: tuple = None,
 
 
 if __name__ == '__main__':
+    image_format = 'PNG'  # Supported formats: 'PNG', 'WEBP'
+
+    cmd_args = [x.lower() for x in sys.argv]
+    if '-png' in cmd_args:
+        image_format = 'PNG'
+    elif '-webp' in cmd_args:
+        image_format = 'WEBP'
+
     current_dir = os.path.dirname(os.path.abspath(__file__))
     date = datetime.date(datetime.now()).isoformat()
-    portrait_hub_name = 'portrait_hub.json'
-
     input_json_path = os.path.join(current_dir, 'MonoBehaviour')
     input_tex_path = os.path.join(current_dir, 'Texture2D')
     output_dir = os.path.join(current_dir, '_output', date)
 
+    portrait_hub_name = 'portrait_hub.json'
     try:
         portrait_hub = load_portrait_hub(input_json_path, portrait_hub_name)
-        processed_count = multiprocessing_crop(input_tex_path, output_dir, portrait_hub)
+        processed_count = multiprocessing_crop(input_tex_path, output_dir, image_format, portrait_hub)
         print(f'Processed [{processed_count}/{portrait_hub["loaded_sprite_count"]}] portraits.')
     except Exception as e:
         print(traceback.format_exc())
