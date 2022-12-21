@@ -133,7 +133,7 @@
             "weibo": "https://weibo.com/u/2951720454",
             "pixiv": "https://www.pixiv.net/users/5784354",
             "twitter": "https://twitter.com/jiur_x",
-            "other": null
+            "other": "https://kajiujiujiu.lofter.com/"
         },
         "charIDs": [
             "char_4047_pianst",
@@ -375,7 +375,7 @@
         "links": {
             "weibo": "https://weibo.com/u/3739431615",
             "pixiv": null,
-            "twitter": null,
+            "twitter": "https://twitter.com/standindesu",
             "other": null
         },
         "charIDs": [
@@ -416,7 +416,7 @@
             "weibo": "https://weibo.com/agatsumarochan",
             "pixiv": "https://www.pixiv.net/users/2497307",
             "twitter": "https://twitter.com/Agatsuma_Rochan",
-            "other": null
+            "other": "https://agatsumaRochan.lofter.com/"
         },
         "charIDs": [
             "char_253_greyy",
@@ -586,7 +586,7 @@
     },
     "hou": {
         "links": {
-            "weibo": null,
+            "weibo": "https://weibo.com/u/7627441589",
             "pixiv": "https://www.pixiv.net/users/390296",
             "twitter": "https://twitter.com/honippo",
             "other": "http://ho0.pya.jp/ppo/"
@@ -673,6 +673,17 @@
         "charIDs": [
             "char_344_beewax",
             "char_426_billro"
+        ]
+    },
+    "kan": {
+        "links": {
+            "weibo": "https://weibo.com/u/1667274275",
+            "pixiv": "https://www.pixiv.net/users/267019",
+            "twitter": "https://twitter.com/kaninn",
+            "other": "https://kaninn.lofter.com/"
+        },
+        "charIDs": [
+            "char_4017_puzzle"
         ]
     },
     "KENTllaall": {
@@ -833,7 +844,7 @@
             "weibo": "https://weibo.com/nineonineo",
             "pixiv": "https://www.pixiv.net/users/2827978",
             "twitter": "https://twitter.com/nineoin5024",
-            "other": "https://nineo.lofter.com/"
+            "other": "https://nineeeo.lofter.com"
         },
         "charIDs": [
             "char_433_windft"
@@ -954,7 +965,9 @@
             "other": "http://starshadow.lofter.com/"
         },
         "charIDs": [
-            "char_261_sddrag"
+            "char_261_sddrag",
+            "char_297_hamoni",
+            "char_1020_reed2"
         ]
     },
     "TEAM EXPNDR": {
