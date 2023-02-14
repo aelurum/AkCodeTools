@@ -160,7 +160,8 @@
             "other": "https://bossrin.lofter.com/"
         },
         "charIDs": [
-            "char_4054_malist"
+            "char_4054_malist",
+            "char_4083_chimes"
         ]
     },
     "竜崎いち": {
@@ -291,7 +292,8 @@
             "char_476_blkngt",
             "char_497_ctable",
             "char_4016_kazema",
-            "char_4043_erato"
+            "char_4043_erato",
+            "char_4082_qiubai"
         ]
     },
     "戏言咸咸": {
@@ -391,7 +393,7 @@
         "links": {
             "weibo": "https://weibo.com/u/6054251875",
             "pixiv": null,
-            "twitter": null,
+            "twitter": "https://twitter.com/KK100018",
             "other": null
         },
         "charIDs": [
