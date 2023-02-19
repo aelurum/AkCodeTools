@@ -175,8 +175,6 @@ class PortraitHub:
                 )
                 loaded_sprite_count += len(filtered_sprite_list)
                 loaded_atlas_count += 1
-            else:
-                print(f'[Warning] Could not find atlas asset "{atlas_container}" among the loaded assets.')
 
         self.loaded_sprite_count = loaded_sprite_count
         print(f'Loaded [{loaded_sprite_count}/{self.sprite_count}] sprite data, '
