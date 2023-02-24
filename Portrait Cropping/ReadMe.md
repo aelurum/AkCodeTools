@@ -44,7 +44,7 @@
     ```bash
     python AkPortraitCropping_UnityPy.py [input_path] [image_format]
     ```
-    - `input_path`: A path to the game\`s .apk file or to the `charportraits` folder containing portrait asset files (portrait_hub.ab, pack[x].ab).
+    - `input_path`: A path to the game\`s .apk file *(for cn or bilibili server)* or to the `charportraits` folder containing portrait asset files (portrait_hub.ab, pack[x].ab).
     - `image_format`: Format of the output portrait images. Supported values: `-png`, `-webp`.
 2. Enjoy!
 
@@ -84,3 +84,4 @@
 
 ### Testing
 - Tested on `mrfz_1.9.62_20230114_051821_3aa6b.apk`
+- Tested on `arknights-hg-1962.apk`

@@ -118,7 +118,7 @@ class PortraitHub:
                 if hub_dir.exists():
                     for asset_path in hub_dir.iterdir():
                         file = BytesIO(asset_path.read_bytes())
-                        name = str(asset_path).removeprefix(self._input_path + '/')
+                        name = str(asset_path).lstrip(self._input_path)[1:]
                         self._unity_env.load_file(file, name=name)
                 else:
                     sys.exit(f'[Error] "charportraits" folder was not found in this apk file: "{self._input_path}".')
