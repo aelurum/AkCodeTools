@@ -136,6 +136,7 @@
             "other": "https://kajiujiujiu.lofter.com/"
         },
         "charIDs": [
+            "char_1030_noirc2",
             "char_4047_pianst",
             "char_4067_lolxh"
         ]
@@ -262,6 +263,17 @@
         },
         "charIDs": [
             "char_4041_chnut"
+        ]
+    },
+    "桃色Miruku": {
+        "links": {
+            "weibo": "https://weibo.com/mmirmrk",
+            "pixiv": "https://www.pixiv.net/users/1671071",
+            "twitter": "https://twitter.com/nie1121",
+            "other": null
+        },
+        "charIDs": [
+            "char_4077_palico"
         ]
     },
     "唯@W": {
@@ -399,6 +411,7 @@
         "charIDs": [
             "char_452_bstalk",
             "char_486_takila",
+            "char_1029_yato2",
             "char_4042_lumen",
             "char_4072_ironmn"
         ]
@@ -740,8 +753,7 @@
             "char_113_cqbw",
             "char_188_helage",
             "char_340_shwaz",
-            "char_416_zumama",
-            "char_4080_lin"
+            "char_416_zumama"
         ]
     },
     "Liyu黎": {
