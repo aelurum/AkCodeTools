@@ -23,7 +23,8 @@
         },
         "charIDs": [
             "char_4062_totter",
-            "char_4071_peper"
+            "char_4071_peper",
+            "char_4087_ines"
         ]
     },
     "RAN": {
@@ -151,6 +152,17 @@
         "charIDs": [
             "char_4063_quartz",
             "char_4078_bdhkgt"
+        ]
+    },
+    "科学": {
+        "links": {
+            "weibo": "https://weibo.com/onlykexue",
+            "pixiv": "https://www.pixiv.net/users/6054803",
+            "twitter": "https://twitter.com/ls809251250",
+            "other": null
+        },
+        "charIDs": [
+            "char_464_cement"
         ]
     },
     "〇亻": {
@@ -355,9 +367,9 @@
     "熊太": {
         "links": {
             "weibo": "https://weibo.com/u/5804823935",
-            "pixiv": null,
-            "twitter": null,
-            "other": null
+            "pixiv": "https://www.pixiv.net/users/3795553",
+            "twitter": "https://twitter.com/kumatangent",
+            "other": "https://www.weibo.com/u/7197900537"
         },
         "charIDs": [
             "char_475_akafyu",
@@ -438,6 +450,7 @@
         "charIDs": [
             "char_253_greyy",
             "char_478_kirara",
+            "char_491_humus",
             "char_1027_greyy2"
         ]
     },
@@ -636,6 +649,7 @@
             "char_112_siege",
             "char_136_hsguma",
             "char_144_red",
+            "char_154_morgan",
             "char_155_tiger",
             "char_157_dagda",
             "char_346_aosta",
