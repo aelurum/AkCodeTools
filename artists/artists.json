@@ -138,6 +138,7 @@
         },
         "charIDs": [
             "char_1030_noirc2",
+            "char_1031_slent2",
             "char_4047_pianst",
             "char_4067_lolxh"
         ]
@@ -402,7 +403,7 @@
         "links": {
             "weibo": "https://weibo.com/u/3739431615",
             "pixiv": null,
-            "twitter": "https://twitter.com/standindesu",
+            "twitter": null,
             "other": null
         },
         "charIDs": [
@@ -806,7 +807,8 @@
         },
         "charIDs": [
             "char_291_aglina",
-            "char_2013_cerber"
+            "char_2013_cerber",
+            "char_4027_heyak"
         ]
     },
     "Lpip": {
@@ -908,6 +910,7 @@
             "char_202_demkni",
             "char_214_kafka",
             "char_248_mgllan",
+            "char_249_mlyss",
             "char_294_ayer",
             "char_383_snsant",
             "char_420_flamtl",
@@ -937,6 +940,17 @@
         },
         "charIDs": [
             "char_110_deepcl"
+        ]
+    },
+    "redjuice": {
+        "links": {
+            "weibo": null,
+            "pixiv": "https://www.pixiv.net/users/3446",
+            "twitter": "https://twitter.com/shiru",
+            "other": "https://www.artstation.com/redjuice"
+        },
+        "charIDs": [
+            "char_4006_melnte"
         ]
     },
     "れおえん": {
