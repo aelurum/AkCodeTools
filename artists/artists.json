@@ -920,6 +920,17 @@
             "char_4000_jnight"
         ]
     },
+    "おぐち": {
+        "links": {
+            "weibo": null,
+            "pixiv": "https://www.pixiv.net/users/19351",
+            "twitter": "https://twitter.com/OGch",
+            "other": null
+        },
+        "charIDs": [
+            "char_4015_spuria"
+        ]
+    },
     "RAYVON": {
         "links": {
             "weibo": null,
@@ -1002,7 +1013,8 @@
             "char_472_pasngr",
             "char_501_durin",
             "char_502_nblade",
-            "char_1023_ghost2"
+            "char_1023_ghost2",
+            "char_1032_excu2"
         ]
     },
     "STAR影法师": {
@@ -1088,7 +1100,8 @@
             "other": "https://umo-summer.lofter.com/"
         },
         "charIDs": [
-            "char_271_spikes"
+            "char_271_spikes",
+            "char_498_inside"
         ]
     },
     "WincalBlanke": {
