@@ -363,6 +363,7 @@
             "char_1011_lava2",
             "char_1021_kroos2",
             "char_1024_hbisc2",
+            "char_1033_swire2",
             "char_2023_ling"
         ]
     },
@@ -523,7 +524,8 @@
             "other": "https://anmi.tumblr.com/"
         },
         "charIDs": [
-            "char_180_amgoat"
+            "char_180_amgoat",
+            "char_1016_agoat2"
         ]
     },
     "アシマ": {
@@ -577,7 +579,8 @@
         "charIDs": [
             "char_381_bubble",
             "char_4025_aprot2",
-            "char_4040_rockr"
+            "char_4040_rockr",
+            "char_4106_bryota"
         ]
     },
     "Chuzenji": {
@@ -749,7 +752,7 @@
     },
     "LAL!ROLE": {
         "links": {
-            "weibo": null,
+            "weibo": "https://weibo.com/u/7815731223",
             "pixiv": "https://www.pixiv.net/users/10537869",
             "twitter": "https://twitter.com/laxxxli",
             "other": null
@@ -897,6 +900,17 @@
         },
         "charIDs": [
             "char_388_mint"
+        ]
+    },
+    "NOCO": {
+        "links": {
+            "weibo": null,
+            "pixiv": null,
+            "twitter": "https://twitter.com/NOCO9999",
+            "other": "https://nocoweb.tumblr.com/"
+        },
+        "charIDs": [
+            "char_488_buildr"
         ]
     },
     "NoriZC": {
