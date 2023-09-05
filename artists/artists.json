@@ -502,6 +502,17 @@
             "char_469_indigo"
         ]
     },
+    "直立行走": {
+        "links": {
+            "weibo": "https://www.weibo.com/u/7778406252",
+            "pixiv": "https://www.pixiv.net/users/10930789",
+            "twitter": "https://twitter.com/WalkingBoring",
+            "other": "https://plasmidt407.lofter.com/"
+        },
+        "charIDs": [
+            "char_4105_almond"
+        ]
+    },
     "alchemaniac": {
         "links": {
             "weibo": "https://weibo.com/u/6583151762",
@@ -578,6 +589,7 @@
         },
         "charIDs": [
             "char_381_bubble",
+            "char_1034_jesca2",
             "char_4025_aprot2",
             "char_4040_rockr",
             "char_4106_bryota"
@@ -825,6 +837,17 @@
         },
         "charIDs": [
             "char_164_nightm"
+        ]
+    },
+    "Mag42": {
+        "links": {
+            "weibo": "https://weibo.com/u/3702660290",
+            "pixiv": "https://www.pixiv.net/users/13566060",
+            "twitter": null,
+            "other": "https://space.bilibili.com/2258094"
+        },
+        "charIDs": [
+            "char_4104_coldst"
         ]
     },
     "m9nokuro": {
