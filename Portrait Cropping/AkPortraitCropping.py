@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 # -*- coding: utf-8 -*-
-__author__ = 'VaDiM#5824'
+__author__ = 'aelurum'
 __version__ = '0.7b'
 
 import json

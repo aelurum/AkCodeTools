@@ -3,11 +3,13 @@
 
 ### Version
 - v0.7b | 19.02.2023
-- by VaDiM#5824
+- by aelurum
 
 
 ### Description
 - Tool for cropping portraits from portrait atlases
+
+> [24.09.2023]: Now you can also just use [ArknightsStudio](https://github.com/aelurum/AssetStudio/tree/ArknightsStudio) to extract portrait sprites
 
 
 ### Folder structure
