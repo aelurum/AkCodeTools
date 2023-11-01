@@ -140,6 +140,17 @@
             "char_358_lisa"
         ]
     },
+    "臼": {
+        "links": {
+            "weibo": "https://weibo.com/u/5356095505",
+            "pixiv": null,
+            "twitter": null,
+            "other": null
+        },
+        "charIDs": [
+            "char_4100_caper"
+        ]
+    },
     "九日九号": {
         "links": {
             "weibo": "https://weibo.com/u/2951720454",
@@ -151,7 +162,8 @@
             "char_1030_noirc2",
             "char_1031_slent2",
             "char_4047_pianst",
-            "char_4067_lolxh"
+            "char_4067_lolxh",
+            "char_4109_baslin"
         ]
     },
     "伍秋秋秋秋": {
@@ -209,6 +221,7 @@
             "char_206_gnosis",
             "char_215_mantic",
             "char_237_gravel",
+            "char_245_cello",
             "char_265_sophia",
             "char_283_midn",
             "char_289_gyuki",
@@ -620,7 +633,8 @@
             "char_436_whispr",
             "char_474_glady",
             "char_4036_forcer",
-            "char_4055_bgsnow"
+            "char_4055_bgsnow",
+            "char_4098_vvana"
         ]
     },
     "deel": {
@@ -735,7 +749,8 @@
         },
         "charIDs": [
             "char_344_beewax",
-            "char_426_billro"
+            "char_426_billro",
+            "char_4011_lessng"
         ]
     },
     "kan": {
@@ -970,6 +985,17 @@
             "char_431_ashlok",
             "char_496_wildmn",
             "char_4000_jnight"
+        ]
+    },
+    "およ": {
+        "links": {
+            "weibo": null,
+            "pixiv": "https://www.pixiv.net/users/2151477",
+            "twitter": "https://twitter.com/ohyg3",
+            "other": "https://ohyg3.tumblr.com/"
+        },
+        "charIDs": [
+            "char_499_kaitou"
         ]
     },
     "おぐち": {
