@@ -72,6 +72,17 @@
             "char_362_saga"
         ]
     },
+    "二色こぺ": {
+        "links": {
+            "weibo": "https://weibo.com/u/7876532411",
+            "pixiv": "https://www.pixiv.net/users/20583724",
+            "twitter": "https://twitter.com/nishikikope",
+            "other": "https://www.ppp25do.com/"
+        },
+        "charIDs": [
+            "char_4081_warmy"
+        ]
+    },
     "釜飯轟々丸": {
         "links": {
             "weibo": null,
@@ -620,7 +631,8 @@
             "char_4025_aprot2",
             "char_4040_rockr",
             "char_4106_bryota",
-            "char_4110_delphn"
+            "char_4110_delphn",
+            "char_4117_ray"
         ]
     },
     "Chuzenji": {
