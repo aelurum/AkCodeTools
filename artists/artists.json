@@ -318,6 +318,17 @@
             "char_4088_hodrer"
         ]
     },
+    "水滴鱼": {
+        "links": {
+            "weibo": null,
+            "pixiv": null,
+            "twitter": null,
+            "other": null
+        },
+        "charIDs": [
+            "char_4130_luton"
+        ]
+    },
     "桃色Miruku": {
         "links": {
             "weibo": "https://weibo.com/mmirmrk",
@@ -495,7 +506,8 @@
             "char_253_greyy",
             "char_478_kirara",
             "char_491_humus",
-            "char_1027_greyy2"
+            "char_1027_greyy2",
+            "char_4131_odda"
         ]
     },
     "藻": {
@@ -635,7 +647,8 @@
             "char_4040_rockr",
             "char_4106_bryota",
             "char_4110_delphn",
-            "char_4117_ray"
+            "char_4117_ray",
+            "char_4132_ascln"
         ]
     },
     "Chuzenji": {
@@ -968,7 +981,8 @@
             "other": null
         },
         "charIDs": [
-            "char_388_mint"
+            "char_388_mint",
+            "char_446_aroma"
         ]
     },
     "NOCO": {
