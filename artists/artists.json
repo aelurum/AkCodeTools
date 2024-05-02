@@ -414,6 +414,7 @@
             "char_1021_kroos2",
             "char_1024_hbisc2",
             "char_1033_swire2",
+            "char_1036_fang2",
             "char_2023_ling"
         ]
     },
@@ -664,7 +665,8 @@
             "char_474_glady",
             "char_4036_forcer",
             "char_4055_bgsnow",
-            "char_4098_vvana"
+            "char_4098_vvana",
+            "char_4134_cetsyr"
         ]
     },
     "deel": {
@@ -844,7 +846,8 @@
             "char_113_cqbw",
             "char_188_helage",
             "char_340_shwaz",
-            "char_416_zumama"
+            "char_416_zumama",
+            "char_1035_wisdel"
         ]
     },
     "Liyu黎": {
@@ -898,6 +901,17 @@
             "char_164_nightm"
         ]
     },
+    "M1917史密斯维森": {
+        "links": {
+            "weibo": "https://weibo.com/u/5324111599",
+            "pixiv": null,
+            "twitter": null,
+            "other": null
+        },
+        "charIDs": [
+            "char_4136_phonor"
+        ]
+    },
     "Mag42": {
         "links": {
             "weibo": "https://weibo.com/u/3702660290",
@@ -906,6 +920,7 @@
             "other": "https://space.bilibili.com/2258094"
         },
         "charIDs": [
+            "char_002_amiya",
             "char_4104_coldst"
         ]
     },
@@ -1125,7 +1140,8 @@
             "char_501_durin",
             "char_502_nblade",
             "char_1023_ghost2",
-            "char_1032_excu2"
+            "char_1032_excu2",
+            "char_4133_logos"
         ]
     },
     "STAR影法师": {
