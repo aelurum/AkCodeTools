@@ -154,7 +154,7 @@
     },
     "臼": {
         "links": {
-            "weibo": "https://weibo.com/u/5356095505",
+            "weibo": "https://weibo.com/u/5138711937",
             "pixiv": null,
             "twitter": null,
             "other": null
@@ -212,7 +212,9 @@
         },
         "charIDs": [
             "char_4054_malist",
-            "char_4083_chimes"
+            "char_4083_chimes",
+            "char_4137_udflow",
+            "char_4147_mitm"
         ]
     },
     "竜崎いち": {
@@ -315,12 +317,13 @@
         },
         "charIDs": [
             "char_4041_chnut",
-            "char_4088_hodrer"
+            "char_4088_hodrer",
+            "char_4151_tinman"
         ]
     },
     "水滴鱼": {
         "links": {
-            "weibo": null,
+            "weibo": "https://weibo.com/u/1737753403",
             "pixiv": null,
             "twitter": null,
             "other": null
@@ -494,6 +497,17 @@
             "char_466_qanik",
             "char_4080_lin",
             "char_4119_wanqin"
+        ]
+    },
+    "色塩": {
+        "links": {
+            "weibo": "https://weibo.com/u/7734957731",
+            "pixiv": "https://www.pixiv.net/users/36416847",
+            "twitter": "https://x.com/oxSTL",
+            "other": "https://www.shokuen.design/"
+        },
+        "charIDs": [
+            "char_4079_haini"
         ]
     },
     "我妻洛酱": {
@@ -1141,7 +1155,8 @@
             "char_502_nblade",
             "char_1023_ghost2",
             "char_1032_excu2",
-            "char_4133_logos"
+            "char_4133_logos",
+            "char_4145_ulpia"
         ]
     },
     "STAR影法师": {
@@ -1256,7 +1271,7 @@
     },
     "u介": {
         "links": {
-            "weibo": null,
+            "weibo": "https://weibo.com/u/7915547561",
             "pixiv": "https://www.pixiv.net/users/915945",
             "twitter": "https://twitter.com/u_suke_rs",
             "other": null
@@ -1294,7 +1309,8 @@
             "char_135_halo",
             "char_274_astesi",
             "char_492_quercu",
-            "char_4122_grabds"
+            "char_4122_grabds",
+            "char_4146_nymph"
         ]
     }
 }
