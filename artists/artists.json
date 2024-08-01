@@ -35,7 +35,8 @@
         "charIDs": [
             "char_4062_totter",
             "char_4071_peper",
-            "char_4087_ines"
+            "char_4087_ines",
+            "char_4138_narant"
         ]
     },
     "RAN": {
@@ -372,7 +373,8 @@
             "char_497_ctable",
             "char_4016_kazema",
             "char_4043_erato",
-            "char_4082_qiubai"
+            "char_4082_qiubai",
+            "char_4139_papyrs"
         ]
     },
     "戏言咸咸": {
@@ -483,7 +485,8 @@
             "char_1029_yato2",
             "char_4042_lumen",
             "char_4072_ironmn",
-            "char_4114_harold"
+            "char_4114_harold",
+            "char_4140_lasher"
         ]
     },
     "三目YYB": {
@@ -977,7 +980,8 @@
         },
         "charIDs": [
             "char_377_gdglow",
-            "char_437_mizuki"
+            "char_437_mizuki",
+            "char_4058_pepe"
         ]
     },
     "neco": {
