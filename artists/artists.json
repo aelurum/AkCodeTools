@@ -136,13 +136,14 @@
             "char_293_thorns",
             "char_300_phenxi",
             "char_1028_texas2",
+            "char_1038_whitw2",
             "char_2014_nian",
             "char_2015_dusk"
         ]
     },
     "将": {
         "links": {
-            "weibo": "https://weibo.com/sholwlwlw",
+            "weibo": "https://weibo.com/u/6627446319",
             "pixiv": "https://www.pixiv.net/users/30551748",
             "twitter": "https://x.com/Sho_lwlw",
             "other": "https://zezeyooo.tumblr.com/"
@@ -190,7 +191,8 @@
         "charIDs": [
             "char_4063_quartz",
             "char_4078_bdhkgt",
-            "char_4102_threye"
+            "char_4102_threye",
+            "char_4155_talr"
         ]
     },
     "科学": {
@@ -274,6 +276,17 @@
         },
         "charIDs": [
             "char_151_myrtle"
+        ]
+    },
+    "虬墨一型": {
+        "links": {
+            "weibo": "https://weibo.com/u/6411539949",
+            "pixiv": null,
+            "twitter": null,
+            "other": "https://space.bilibili.com/237076619"
+        },
+        "charIDs": [
+            "char_4165_ctrail"
         ]
     },
     "山×2": {
@@ -374,7 +387,8 @@
             "char_4016_kazema",
             "char_4043_erato",
             "char_4082_qiubai",
-            "char_4139_papyrs"
+            "char_4139_papyrs",
+            "char_4162_cathy"
         ]
     },
     "戏言咸咸": {
@@ -581,6 +595,7 @@
             "other": "https://plasmidt407.lofter.com/"
         },
         "charIDs": [
+            "char_1502_crosly",
             "char_4105_almond"
         ]
     },
@@ -705,7 +720,8 @@
             "other": null
         },
         "charIDs": [
-            "char_4066_highmo"
+            "char_4066_highmo",
+            "char_4148_philae"
         ]
     },
     "hou": {
@@ -728,7 +744,8 @@
         },
         "charIDs": [
             "char_126_shotst",
-            "char_183_skgoat"
+            "char_183_skgoat",
+            "char_487_bobb"
         ]
     },
     "Infukun": {
@@ -1185,7 +1202,12 @@
         },
         "charIDs": [
             "char_341_sntlla",
-            "char_494_vendla"
+            "char_494_vendla",
+            "char_1019_siege2",
+            "char_4141_marcil",
+            "char_4142_laios",
+            "char_4143_sensi",
+            "char_4144_chilc"
         ]
     },
     "TEAM EXPNDR": {
