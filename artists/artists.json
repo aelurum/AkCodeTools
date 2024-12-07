@@ -73,6 +73,17 @@
             "char_362_saga"
         ]
     },
+    "二开": {
+        "links": {
+            "weibo": "https://weibo.com/u/6522370638",
+            "pixiv": null,
+            "twitter": null,
+            "other": null
+        },
+        "charIDs": [
+            "char_4163_rosesa"
+        ]
+    },
     "二色こぺ": {
         "links": {
             "weibo": "https://weibo.com/u/7876532411",
@@ -94,6 +105,28 @@
         "charIDs": [
             "char_337_utage",
             "char_4023_rfalcn"
+        ]
+    },
+    "嘎嘎人": {
+        "links": {
+            "weibo": "https://weibo.com/u/7135059216",
+            "pixiv": null,
+            "twitter": null,
+            "other": null
+        },
+        "charIDs": [
+            "char_1039_thorn2"
+        ]
+    },
+    "过失帝国": {
+        "links": {
+            "weibo": "https://weibo.com/u/1779169457",
+            "pixiv": null,
+            "twitter": null,
+            "other": null
+        },
+        "charIDs": [
+            "char_4093_frston"
         ]
     },
     "海猫络合物": {
@@ -210,7 +243,7 @@
         "links": {
             "weibo": "https://weibo.com/u/2731584365",
             "pixiv": "https://www.pixiv.net/users/4005946",
-            "twitter": null,
+            "twitter": "https://x.com/FormatSpace",
             "other": "https://bossrin.lofter.com/"
         },
         "charIDs": [
@@ -343,7 +376,8 @@
             "other": null
         },
         "charIDs": [
-            "char_4130_luton"
+            "char_4130_luton",
+            "char_4164_tecno"
         ]
     },
     "桃色Miruku": {
