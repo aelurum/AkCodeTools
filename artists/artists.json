@@ -22,7 +22,8 @@
             "other": null
         },
         "charIDs": [
-            "char_4107_vrdant"
+            "char_4107_vrdant",
+            "char_4178_alanna"
         ]
     },
     "板板": {
@@ -36,7 +37,8 @@
             "char_4062_totter",
             "char_4071_peper",
             "char_4087_ines",
-            "char_4138_narant"
+            "char_4138_narant",
+            "char_4173_nowell"
         ]
     },
     "RAN": {
@@ -97,7 +99,7 @@
     },
     "釜飯轟々丸": {
         "links": {
-            "weibo": null,
+            "weibo": "https://weibo.com/u/7863990943",
             "pixiv": "https://www.pixiv.net/users/16130433",
             "twitter": "https://x.com/kamamesigogo123",
             "other": "https://kamameshigogomaru.tumblr.com/"
@@ -178,8 +180,8 @@
         "links": {
             "weibo": "https://weibo.com/u/6627446319",
             "pixiv": "https://www.pixiv.net/users/30551748",
-            "twitter": "https://x.com/Sho_lwlw",
-            "other": "https://zezeyooo.tumblr.com/"
+            "twitter": "https://x.com/masarustrongest",
+            "other": "https://x.com/omochinoie"
         },
         "charIDs": [
             "char_298_susuro",
@@ -195,7 +197,8 @@
             "other": null
         },
         "charIDs": [
-            "char_4100_caper"
+            "char_4100_caper",
+            "char_4171_wulfen"
         ]
     },
     "九日九号": {
@@ -225,7 +228,8 @@
             "char_4063_quartz",
             "char_4078_bdhkgt",
             "char_4102_threye",
-            "char_4155_talr"
+            "char_4155_talr",
+            "char_4179_monstr"
         ]
     },
     "科学": {
@@ -531,6 +535,7 @@
             "char_452_bstalk",
             "char_486_takila",
             "char_1029_yato2",
+            "char_2026_yu",
             "char_4042_lumen",
             "char_4072_ironmn",
             "char_4114_harold",
@@ -612,7 +617,7 @@
     },
     "织布机loom": {
         "links": {
-            "weibo": "https://weibo.com/zhibujiloom",
+            "weibo": "https://weibo.com/u/7742668455",
             "pixiv": "https://www.pixiv.net/users/13695413",
             "twitter": "https://x.com/Zhibujiloom",
             "other": "https://mikoto798.lofter.com/"
@@ -633,10 +638,21 @@
             "char_4105_almond"
         ]
     },
+    "3MO": {
+        "links": {
+            "weibo": "https://www.weibo.com/u/7920941801",
+            "pixiv": null,
+            "twitter": null,
+            "other": null
+        },
+        "charIDs": [
+            "char_4172_xingzh"
+        ]
+    },
     "alchemaniac": {
         "links": {
             "weibo": "https://weibo.com/u/6583151762",
-            "pixiv": "https://www.pixiv.net/en/users/3639896",
+            "pixiv": "https://www.pixiv.net/users/3639896",
             "twitter": "https://x.com/alchehehe",
             "other": "http://gilangandrian.com/"
         },
@@ -679,7 +695,8 @@
             "other": null
         },
         "charIDs": [
-            "char_350_surtr"
+            "char_350_surtr",
+            "char_4010_etlchi"
         ]
     },
     "aZLing4": {
@@ -698,6 +715,17 @@
             "char_451_robin",
             "char_485_pallas",
             "char_4009_irene"
+        ]
+    },
+    "azuタロウ": {
+        "links": {
+            "weibo": null,
+            "pixiv": "https://www.pixiv.net/users/15289205",
+            "twitter": "https://x.com/sub_azu",
+            "other": null
+        },
+        "charIDs": [
+            "char_445_wscoot"
         ]
     },
     "Cenm0": {
@@ -843,7 +871,7 @@
     },
     "カワグチ": {
         "links": {
-            "weibo": null,
+            "weibo": "https://weibo.com/u/7881406078",
             "pixiv": "https://www.pixiv.net/users/4340895",
             "twitter": "https://x.com/kwgc_c",
             "other": "https://sites.google.com/view/kwgc/"
@@ -989,6 +1017,7 @@
         },
         "charIDs": [
             "char_002_amiya",
+            "char_1040_blaze2",
             "char_4104_coldst"
         ]
     },
@@ -1167,7 +1196,8 @@
         },
         "charIDs": [
             "char_328_cammou",
-            "char_365_aprl"
+            "char_365_aprl",
+            "char_4052_surfer"
         ]
     },
     "せんむ": {
@@ -1224,6 +1254,7 @@
         "charIDs": [
             "char_261_sddrag",
             "char_297_hamoni",
+            "char_450_necras",
             "char_1020_reed2"
         ]
     },
@@ -1371,6 +1402,17 @@
             "char_492_quercu",
             "char_4122_grabds",
             "char_4146_nymph"
+        ]
+    },
+    "Yukuso": {
+        "links": {
+            "weibo": "https://weibo.com/u/3485506282",
+            "pixiv": "https://www.pixiv.net/users/5407701",
+            "twitter": "https://x.com/DABIANDANG",
+            "other": null
+        },
+        "charIDs": [
+            "char_4177_brigid"
         ]
     }
 }
