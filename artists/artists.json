@@ -172,6 +172,7 @@
             "char_300_phenxi",
             "char_1028_texas2",
             "char_1038_whitw2",
+            "char_1041_angel2",
             "char_2014_nian",
             "char_2015_dusk"
         ]
@@ -214,7 +215,8 @@
             "char_4047_pianst",
             "char_4067_lolxh",
             "char_4109_baslin",
-            "char_4121_zuole"
+            "char_4121_zuole",
+            "char_4194_rmixer"
         ]
     },
     "伍秋秋秋秋": {
@@ -381,7 +383,8 @@
         },
         "charIDs": [
             "char_4130_luton",
-            "char_4164_tecno"
+            "char_4164_tecno",
+            "char_4187_graceb"
         ]
     },
     "桃色Miruku": {
@@ -842,7 +845,8 @@
             "char_2025_shu",
             "char_4014_lunacu",
             "char_4019_ncdeer",
-            "char_4065_judge"
+            "char_4065_judge",
+            "char_4193_lemuen"
         ]
     },
     "Iritoa": {
