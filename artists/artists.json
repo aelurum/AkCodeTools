@@ -52,6 +52,17 @@
             "char_241_panda"
         ]
     },
+    "抽象Rotate": {
+        "links": {
+            "weibo": null,
+            "pixiv": null,
+            "twitter": null,
+            "other": null
+        },
+        "charIDs": [
+            "char_4188_confes"
+        ]
+    },
     "Lanzi": {
         "links": {
             "weibo": "https://weibo.com/danlanlanzi",
@@ -365,7 +376,7 @@
         "links": {
             "weibo": "https://weibo.com/u/1840591667",
             "pixiv": null,
-            "twitter": null,
+            "twitter": "https://x.com/shutunnnnnn",
             "other": null
         },
         "charIDs": [
